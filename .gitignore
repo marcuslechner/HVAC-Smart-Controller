@@ -1,7 +1,7 @@
 # Ignore these
-.MP4
-.PNG
-.mkv
-.mov
-.STL
-.gcode
+*.MP4
+*.PNG
+*.mkv
+*.mov
+*.STL
+*.gcode
